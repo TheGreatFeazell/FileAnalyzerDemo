@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileAnalyzerUtil": {
+      "commandName": "Project",
+      "commandLineArgs": "-h d:\\libraries\\james\\documents test.csv"
+    }
+  }
+}
